@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><trains>
+    <train id="1">
+        <from>Kyiv</from>
+        <to>Lviv</to>
+        <date>31.05.2016</date>
+        <departure>15:30</departure>
+    </train>
+        <train id="2">
+        <from>Kyiv</from>
+        <to>Odessa</to>
+        <date>31.05.2016</date>
+        <departure>19:45</departure>
+    </train>
+
+</trains>
